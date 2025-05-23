@@ -1,2 +1,0 @@
-# ZooApp
-ING ZOOAPP
